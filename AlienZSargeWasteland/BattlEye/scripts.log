@@ -1,0 +1,26 @@
+15.08.2013 00:29:28: Michael Slaunwhite (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #24 "rivate ["_dummy"]; _dummy = [_this,"players"] execVM "\ca\ui\scripts\dedicatedServerInterface.sqf";"
+15.08.2013 00:44:15: Michael Slaunwhite (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #24 "rivate ["_dummy"]; _dummy = [_this,"players"] execVM "\ca\ui\scripts\dedicatedServerInterface.sqf";"
+15.08.2013 06:10:47: Eric (69.114.82.142:2316) 721fec8009d3b552a40fd6b6a4e27d45 - #24 "rivate ["_dummy"]; _dummy = [_this,"players"] execVM "\ca\ui\scripts\dedicatedServerInterface.sqf";"
+15.08.2013 06:10:57: Eric (69.114.82.142:2316) 721fec8009d3b552a40fd6b6a4e27d45 - #24 "rivate ["_dummy"]; _dummy = [_this,"players"] execVM "\ca\ui\scripts\dedicatedServerInterface.sqf";"
+15.08.2013 06:13:04: Eric (69.114.82.142:2316) 721fec8009d3b552a40fd6b6a4e27d45 - #24 "rivate ["_dummy"]; _dummy = [_this,"players"] execVM "\ca\ui\scripts\dedicatedServerInterface.sqf";"
+17.08.2013 05:15:06: Mikesla (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #16 "#line 1 "mpmissions\__CUR_MP.Chernarus\init.sqf"
+
+
+
+
+
+
+
+dayZ_instance = 1;
+
+hiveInUse = true;
+dayzHiveRequest = [];
+initialized "
+17.08.2013 05:16:58: Mikesla (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #16 "[] execVM '\z\addons\dayz_code\compile\player_onPause.sqf'; _dummy = ['Init', _this] execVM '\ca\ui\scripts\pauseLoadinit.sqf';"
+17.08.2013 05:16:58: Mikesla (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #16 "#line 1 "z\addons\dayz_code\compile\player_onPause.sqf"
+private["_display","_btnRespawn","_btnAbort","_timeOut","_timeMax","_isD"
+17.08.2013 05:16:58: Mikesla (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #16 "#line 1 "z\addons\dayz_code\compile\player_onPause.sqf"
+private["_display","_btnRespawn","_btnAbort","_timeOut","_timeMax","_isD"
+17.08.2013 05:17:00: Mikesla (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #16 "[] execVM '\z\addons\dayz_code\compile\player_onPause.sqf'; call dayz_forceSave;"
+17.08.2013 05:17:00: Mikesla (173.212.91.210:2316) 3a839a20023a9f894a91ef20406bd16e - #16 "#line 1 "z\addons\dayz_code\compile\player_onPause.sqf"
+private["_display","_btnRespawn","_btnAbort","_timeOut","_timeMax","_isD"
